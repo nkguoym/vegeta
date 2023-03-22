@@ -5,8 +5,8 @@ package main
 import (
 	"log"
 
+	"github.com/nkguoym/vegeta/lib/plot"
 	"github.com/shurcooL/vfsgen"
-	"github.com/ymguo/vegeta/lib/plot"
 )
 
 func main() {

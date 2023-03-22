@@ -7,8 +7,8 @@ import (
 	"os"
 	"os/signal"
 
-	vegeta "github.com/ymguo/vegeta/lib"
-	"github.com/ymguo/vegeta/lib/plot"
+	vegeta "github.com/nkguoym/vegeta/lib"
+	"github.com/nkguoym/vegeta/lib/plot"
 )
 
 const plotUsage = `Usage: vegeta plot [options] [<file>...]

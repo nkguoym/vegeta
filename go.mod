@@ -1,4 +1,4 @@
-module github.com/ymguo/vegeta
+module github.com/nkguoym/vegeta
 
 go 1.13
 
