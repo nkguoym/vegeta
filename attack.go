@@ -15,8 +15,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/tsenart/vegeta/v12/internal/resolver"
-	vegeta "github.com/tsenart/vegeta/v12/lib"
+	"github.com/ymguo/vegeta/internal/resolver"
+	vegeta "github.com/ymguo/vegeta/lib"
 )
 
 func attackCmd() command {
